@@ -1,15 +1,40 @@
-<h2 align="center">꾸준함을 바탕으로 성장하는 개발자 한진경입니다.</h2>
+<h2 align="center">서비스의 흐름을 이해하고 문제를 구조화하는 개발자 한진경입니다.</h2>
 <p align="center">
-  사용자 경험과 구조적인 코드를 중요하게 생각하며, 매일 알고리즘 문제를 풀어 기초 체력을 탄탄히 쌓고 있습니다.
+  사용자 경험과 데이터 흐름을 바탕으로 문제의 원인을 찾고,
+  팀과 함께 실행 가능한 해결책을 만드는 과정을 중요하게 생각합니다.
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
-- **Frontend & AI 관심**  
-- React · TypeScript · Python 중심으로 학습 중
-- **1일 1문제 알고리즘 스터디 진행 중**  
-- Velog에 문제 풀이 정리  
+- **Frontend · Service Problem Solving**
+- 사용자 흐름과 데이터 구조를 고려한 문제 해결
+- React · TypeScript · Python · SQL 기반 프로젝트 경험
+- Git · Issue · PR 기반 협업 및 문서화
+- 문제의 원인을 직접 확인하고, 팀과 기준을 맞춰 개선하는 과정을 중요하게 생각합니다.
+
+---
+
+### 🚀 Projects
+
+#### 쪼개 | AI 기반 여행 정산 서비스
+- 결제 내역 조회 기능 담당
+- 계좌 → 카드 → 결제 → 조회의 선행조건 및 API 의존관계 분석
+- 테스트 데이터 생성 및 단계별 검증을 통해 결제 흐름 안정화
+- React · TypeScript · Zustand · Axios
+
+#### 우화 | 가족 간 소통 서비스
+- 8인 팀 프론트엔드 총괄
+- 화면 단위 작업 분배 및 파일 구조, 공통 요소 사용 기준 정리
+- PR 및 리뷰 기준 수립
+- 닉네임 변경 후 다른 화면에 즉시 반영되도록 상태 동기화 구현
+- Flutter · Riverpod
+
+#### 토닥 | AI 기반 반려동물 비대면 진료 서비스
+- 사용자 유형과 진료 상태에 따른 화면 구현
+- 상태 기반 UI와 유효성 검사, 로딩 안내 개선
+- SSAFY 웹디자인 트랙 우수팀 및 우수상
+- React · TypeScript · Zustand
 
 ---
 
@@ -36,7 +61,7 @@
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend & Tools  
+#### ⚙️ Backend & Data
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django REST-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -68,9 +93,13 @@
 <div align="center">
 
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjingyeong97) <img src="http://mazandi.herokuapp.com/api?handle=hanjingyeong97&theme=warm"/>
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HJG827&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400)
-
 </div>
+
+---
+
+### 📚 Learning
+- Python · Java 기반 알고리즘 문제 풀이 지속
+- Velog에 문제 풀이 및 학습 내용 기록
 
 ---
 
@@ -90,4 +119,4 @@
 
 ---
 
-<h3 align="center">✨ 꾸준히 성장하는 개발자가 되겠습니다 :) ✨</h3>
+<h3 align="center">문제를 이해하고, 검증하고, 개선하는 개발자가 되겠습니다.</h3>
